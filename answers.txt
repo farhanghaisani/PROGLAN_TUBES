@@ -1,0 +1,3 @@
+Jakarta, Surabaya, Bandung, Medan
+12, 10, 15, 20
+4, 5, 7, 9
